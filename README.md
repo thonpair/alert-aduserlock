@@ -15,8 +15,8 @@ In Windows Task Sheduler, create a new Task with that configuration
 * **Trigger** tab : 
     * Begin the task : On a event
     * Settings : Basic
-    * Log: System
-    * Event ID: 104
+    * Log: Security
+    * Event ID: 4740
     * Enabled : checked
 
 * **Actions** tab:
